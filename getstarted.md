@@ -237,14 +237,26 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
    color: red
 }
 
+.gs-section-01 p {
+     font-size: 30px;
+}
+
 # only <h3> headers between <div class=gs-section-02> tags
 
 .gs-section-02 h3 { 
    color: blue
 }
 
+.gs-section-02 p {
+     font-size: 10px;
+}
+
 # only <h3> headers between <div class=gs-section-03> tags
 
 .gs-section-03 h3 { 
    color: green
+}
+
+.gs-section-03 p {
+     font-size: 50px;
 }
