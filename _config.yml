@@ -19,7 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"    # This link has been added.
-  Table Demo: "table-demo.md"     #This link has been added.
+  Table Demo: "table-demo"     #This link has been added.
   Author's home: "https://amberlynnk.github.io"
 
 # --- Logo --- #
