@@ -18,7 +18,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Getting Started: "getstarted"    # This link has been added.
+  Author's home: "https://amberlynnk.github.io"
 
 # --- Logo --- #
 
