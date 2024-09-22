@@ -236,7 +236,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 #CSS Style
 <style>
 # only <h3> headers between <div class=gs-section-01> tags
-.gs-section-01 h3 { 
+.gs-section-01 p { 
    color: red
 }
 .gs-section-01 p {
